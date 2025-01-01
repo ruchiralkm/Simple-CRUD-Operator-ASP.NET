@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ruchi\\source\\repos\\ASP.NET Theories\\ServiceSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB75BCF1-5BE7-4B78-8DCE-DB9185AB9BBC}|ServiceSolution.Web\\ServiceSolution.Web.csproj|c:\\users\\ruchi\\source\\repos\\asp.net theories\\servicesolution\\servicesolution.web\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB75BCF1-5BE7-4B78-8DCE-DB9185AB9BBC}|ServiceSolution.Web\\ServiceSolution.Web.csproj|solutionrelative:servicesolution.web\\controllers\\servicescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB75BCF1-5BE7-4B78-8DCE-DB9185AB9BBC}|ServiceSolution.Web\\ServiceSolution.Web.csproj|c:\\users\\ruchi\\source\\repos\\asp.net theories\\servicesolution\\servicesolution.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB75BCF1-5BE7-4B78-8DCE-DB9185AB9BBC}|ServiceSolution.Web\\ServiceSolution.Web.csproj|solutionrelative:servicesolution.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB75BCF1-5BE7-4B78-8DCE-DB9185AB9BBC}|ServiceSolution.Web\\ServiceSolution.Web.csproj|c:\\users\\ruchi\\source\\repos\\asp.net theories\\servicesolution\\servicesolution.web\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB75BCF1-5BE7-4B78-8DCE-DB9185AB9BBC}|ServiceSolution.Web\\ServiceSolution.Web.csproj|solutionrelative:servicesolution.web\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB75BCF1-5BE7-4B78-8DCE-DB9185AB9BBC}|ServiceSolution.Web\\ServiceSolution.Web.csproj|c:\\users\\ruchi\\source\\repos\\asp.net theories\\servicesolution\\servicesolution.web\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB75BCF1-5BE7-4B78-8DCE-DB9185AB9BBC}|ServiceSolution.Web\\ServiceSolution.Web.csproj|solutionrelative:servicesolution.web\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB75BCF1-5BE7-4B78-8DCE-DB9185AB9BBC}|ServiceSolution.Web\\ServiceSolution.Web.csproj|c:\\users\\ruchi\\source\\repos\\asp.net theories\\servicesolution\\servicesolution.web\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB75BCF1-5BE7-4B78-8DCE-DB9185AB9BBC}|ServiceSolution.Web\\ServiceSolution.Web.csproj|solutionrelative:servicesolution.web\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB75BCF1-5BE7-4B78-8DCE-DB9185AB9BBC}|ServiceSolution.Web\\ServiceSolution.Web.csproj|c:\\users\\ruchi\\source\\repos\\asp.net theories\\servicesolution\\servicesolution.web\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB75BCF1-5BE7-4B78-8DCE-DB9185AB9BBC}|ServiceSolution.Web\\ServiceSolution.Web.csproj|solutionrelative:servicesolution.web\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB75BCF1-5BE7-4B78-8DCE-DB9185AB9BBC}|ServiceSolution.Web\\ServiceSolution.Web.csproj|c:\\users\\ruchi\\source\\repos\\asp.net theories\\servicesolution\\servicesolution.web\\models\\servicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB75BCF1-5BE7-4B78-8DCE-DB9185AB9BBC}|ServiceSolution.Web\\ServiceSolution.Web.csproj|solutionrelative:servicesolution.web\\models\\servicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB75BCF1-5BE7-4B78-8DCE-DB9185AB9BBC}|ServiceSolution.Web\\ServiceSolution.Web.csproj|c:\\users\\ruchi\\source\\repos\\asp.net theories\\servicesolution\\servicesolution.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB75BCF1-5BE7-4B78-8DCE-DB9185AB9BBC}|ServiceSolution.Web\\ServiceSolution.Web.csproj|solutionrelative:servicesolution.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB75BCF1-5BE7-4B78-8DCE-DB9185AB9BBC}|ServiceSolution.Web\\ServiceSolution.Web.csproj|c:\\users\\ruchi\\source\\repos\\asp.net theories\\servicesolution\\servicesolution.web\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB75BCF1-5BE7-4B78-8DCE-DB9185AB9BBC}|ServiceSolution.Web\\ServiceSolution.Web.csproj|solutionrelative:servicesolution.web\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB75BCF1-5BE7-4B78-8DCE-DB9185AB9BBC}|ServiceSolution.Web\\ServiceSolution.Web.csproj|c:\\users\\ruchi\\source\\repos\\asp.net theories\\servicesolution\\servicesolution.web\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB75BCF1-5BE7-4B78-8DCE-DB9185AB9BBC}|ServiceSolution.Web\\ServiceSolution.Web.csproj|solutionrelative:servicesolution.web\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB75BCF1-5BE7-4B78-8DCE-DB9185AB9BBC}|ServiceSolution.Web\\ServiceSolution.Web.csproj|c:\\users\\ruchi\\source\\repos\\asp.net theories\\servicesolution\\servicesolution.web\\models\\transactionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB75BCF1-5BE7-4B78-8DCE-DB9185AB9BBC}|ServiceSolution.Web\\ServiceSolution.Web.csproj|solutionrelative:servicesolution.web\\models\\transactionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB75BCF1-5BE7-4B78-8DCE-DB9185AB9BBC}|ServiceSolution.Web\\ServiceSolution.Web.csproj|c:\\users\\ruchi\\source\\repos\\asp.net theories\\servicesolution\\servicesolution.web\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB75BCF1-5BE7-4B78-8DCE-DB9185AB9BBC}|ServiceSolution.Web\\ServiceSolution.Web.csproj|solutionrelative:servicesolution.web\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\ruchi\\source\\repos\\ASP.NET Theories\\ServiceSolution\\ServiceSolution.Web\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "ServiceSolution.Web\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\ruchi\\source\\repos\\ASP.NET Theories\\ServiceSolution\\ServiceSolution.Web\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "ServiceSolution.Web\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T22:00:13.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ruchi\\source\\repos\\ASP.NET Theories\\ServiceSolution\\ServiceSolution.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ServiceSolution.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ruchi\\source\\repos\\ASP.NET Theories\\ServiceSolution\\ServiceSolution.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ServiceSolution.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T21:53:52.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\ruchi\\source\\repos\\ASP.NET Theories\\ServiceSolution\\ServiceSolution.Web\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "ServiceSolution.Web\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\ruchi\\source\\repos\\ASP.NET Theories\\ServiceSolution\\ServiceSolution.Web\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "ServiceSolution.Web\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:51:11.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "C:\\Users\\ruchi\\source\\repos\\ASP.NET Theories\\ServiceSolution\\ServiceSolution.Web\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "ServiceSolution.Web\\Controllers\\VehiclesController.cs",
+              "ToolTip": "C:\\Users\\ruchi\\source\\repos\\ASP.NET Theories\\ServiceSolution\\ServiceSolution.Web\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "ServiceSolution.Web\\Controllers\\VehiclesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:47:18.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServicesController.cs",
+              "DocumentMoniker": "C:\\Users\\ruchi\\source\\repos\\ASP.NET Theories\\ServiceSolution\\ServiceSolution.Web\\Controllers\\ServicesController.cs",
+              "RelativeDocumentMoniker": "ServiceSolution.Web\\Controllers\\ServicesController.cs",
+              "ToolTip": "C:\\Users\\ruchi\\source\\repos\\ASP.NET Theories\\ServiceSolution\\ServiceSolution.Web\\Controllers\\ServicesController.cs",
+              "RelativeToolTip": "ServiceSolution.Web\\Controllers\\ServicesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:30:11.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ruchi\\source\\repos\\ASP.NET Theories\\ServiceSolution\\ServiceSolution.Web\\Program.cs",
+              "RelativeDocumentMoniker": "ServiceSolution.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\ruchi\\source\\repos\\ASP.NET Theories\\ServiceSolution\\ServiceSolution.Web\\Program.cs",
+              "RelativeToolTip": "ServiceSolution.Web\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T21:18:45.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ruchi\\source\\repos\\ASP.NET Theories\\ServiceSolution\\ServiceSolution.Web\\Models\\ServiceDbContext.cs",
+              "RelativeDocumentMoniker": "ServiceSolution.Web\\Models\\ServiceDbContext.cs",
+              "ToolTip": "C:\\Users\\ruchi\\source\\repos\\ASP.NET Theories\\ServiceSolution\\ServiceSolution.Web\\Models\\ServiceDbContext.cs",
+              "RelativeToolTip": "ServiceSolution.Web\\Models\\ServiceDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:49:15.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\ruchi\\source\\repos\\ASP.NET Theories\\ServiceSolution\\ServiceSolution.Web\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "ServiceSolution.Web\\Models\\Transaction.cs",
+              "ToolTip": "C:\\Users\\ruchi\\source\\repos\\ASP.NET Theories\\ServiceSolution\\ServiceSolution.Web\\Models\\Transaction.cs",
+              "RelativeToolTip": "ServiceSolution.Web\\Models\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:15:15.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ruchi\\source\\repos\\ASP.NET Theories\\ServiceSolution\\ServiceSolution.Web\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ServiceSolution.Web\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ruchi\\source\\repos\\ASP.NET Theories\\ServiceSolution\\ServiceSolution.Web\\Models\\Employee.cs",
+              "RelativeToolTip": "ServiceSolution.Web\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:12:31.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ruchi\\source\\repos\\ASP.NET Theories\\ServiceSolution\\ServiceSolution.Web\\Models\\TransactionStatus.cs",
+              "RelativeDocumentMoniker": "ServiceSolution.Web\\Models\\TransactionStatus.cs",
+              "ToolTip": "C:\\Users\\ruchi\\source\\repos\\ASP.NET Theories\\ServiceSolution\\ServiceSolution.Web\\Models\\TransactionStatus.cs",
+              "RelativeToolTip": "ServiceSolution.Web\\Models\\TransactionStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:18:13.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ruchi\\source\\repos\\ASP.NET Theories\\ServiceSolution\\ServiceSolution.Web\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ServiceSolution.Web\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\ruchi\\source\\repos\\ASP.NET Theories\\ServiceSolution\\ServiceSolution.Web\\Models\\Customer.cs",
+              "RelativeToolTip": "ServiceSolution.Web\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:08:30.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\ruchi\\source\\repos\\ASP.NET Theories\\ServiceSolution\\ServiceSolution.Web\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ServiceSolution.Web\\Models\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\ruchi\\source\\repos\\ASP.NET Theories\\ServiceSolution\\ServiceSolution.Web\\Models\\Vehicle.cs",
+              "RelativeToolTip": "ServiceSolution.Web\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T20:06:01.595Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

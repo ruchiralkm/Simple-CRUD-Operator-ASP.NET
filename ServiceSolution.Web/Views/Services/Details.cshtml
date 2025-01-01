@@ -1,0 +1,28 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    var service = ViewData["Service"] as VehicleService;
+
+    Layout = "_Layout2";
+}
+
+<h1>Details Page</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Description</th>
+            <th>Cost</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        <tr>
+            <td>@service.Title</td>
+            <td>@service.Description</td>
+            <td>@service.Cost</td>
+        </tr>
+    </tbody>
+</table>
